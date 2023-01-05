@@ -10,7 +10,7 @@ This is a simple python statement to show the power of a print statement.
 
 to put it simply it shows hello world on the console
 
-To see a video of this project check out my youtube video [here](https://www.python.org/).
+To see a video of this project check out my youtube video [here](https://youtu.be/MGHeesx3EzI).
 
 ## Getting Started
 
