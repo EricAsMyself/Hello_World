@@ -6,7 +6,7 @@ We use a very basic function print, and a simple statement hello world to show t
 
 I wanted to help others to see how simple it can be to use python.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8iIp9tJYTcE)
 
 # Development Environment
 
